@@ -10,8 +10,10 @@ tenha o codigo no VScode(Visual Studio Code) e a extensão do Python mais recent
 
 Digite as duas notas quando solicitado.
 
+<img width="263" height="85" alt="image" src="https://github.com/user-attachments/assets/564ff0a7-11b8-4baa-bce9-21e28e004b44" />
+
 ---
-<br><br>
+<br>
 
 Feito por Gabriel 
 ### CONTATO
