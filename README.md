@@ -1,10 +1,10 @@
-#Sistema de Notas do Aluno
+# Sistema de Notas do Aluno
 
-##Requisitos
+## Requisitos
 
 Python 3.x
 
-##Como executar
+## Como executar
 
 tenha o codigo no VScode(Visual Studio Code) e a extensão do Python mais recente e execute o codigo.
 
@@ -14,5 +14,5 @@ Digite as duas notas quando solicitado.
 <br><br>
 
 Feito por Gabriel 
-#######CONTATO
+####### CONTATO
 Whatszapp(11986174565)
